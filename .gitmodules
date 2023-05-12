@@ -1,0 +1,3 @@
+[submodule "Packages/net.harrybosch.quickactions"]
+	path = Packages/net.harrybosch.quickactions
+	url = https://github.com/HarryBosch03/QuickActions
